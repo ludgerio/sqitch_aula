@@ -3,3 +3,5 @@
 %uri=https://github.com/ludgerio/sqitch_aula.git
 
 schema_escola 2016-02-25T14:23:50Z Lud Net <ludnet@ludnet.com> # Adicionar schema da escola
+aluno 2016-02-25T14:42:27Z Lud Net <ludnet@ludnet.com> # cria tabela aluno
+@1.0.0-4544 2016-02-25T14:59:50Z Lud Net <ludnet@ludnet.com> # Tag para aluno e schema escola
